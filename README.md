@@ -22,7 +22,6 @@ A **Streamlit-based chatbot** that allows users to upload PDFs and interact with
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # macOS/Linux
-   venv\Scripts\activate     # Windows
    ```
 3. **Install Dependencies**:
    ```bash
