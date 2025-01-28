@@ -59,11 +59,3 @@ A **Streamlit-based chatbot** that allows users to upload PDFs and interact with
 ## **📜 License**
 Licensed under the **MIT License**. Feel free to use and modify the code.
 
----
-
-## **🌟 Star This Repo**
-If you find this project helpful, don’t forget to give it a ⭐ on GitHub!
-
----
-
-This concise `README.md` provides the essential details while remaining user-friendly. Let me know if you need further tweaks! 🚀
